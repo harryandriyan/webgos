@@ -8,7 +8,7 @@
 return array(
 	'basePath'=>dirname(__FILE__).DIRECTORY_SEPARATOR.'..',
 	'name'=>'Web Gunungkidul Open Source',
-	'theme'=>'web',
+	'theme'=>'material',
 
 	// preloading 'log' component
 	'preload'=>array('log'),
@@ -25,7 +25,7 @@ return array(
 		'backend',
 		'gii'=>array(
 			'class'=>'system.gii.GiiModule',
-			'password'=>'qwe',
+			'password'=>'gos',
 			// If removed, Gii defaults to localhost only. Edit carefully to taste.
 			'ipFilters'=>array('127.0.0.1','::1'),
 		),
@@ -50,7 +50,6 @@ return array(
 				/*
 				Overwrite Url menu utama pada halaman website
 				*/
-				'about'=>'site/about',
 				'kegiatan'=>'site/kegiatan',
 				'galeri'=>'site/galeri',
 			),

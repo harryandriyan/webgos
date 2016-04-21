@@ -8464,3 +8464,873 @@ Stack trace:
 REQUEST_URI=/devs/webgos/themes/web/css/owl.transitions.css
 HTTP_REFERER=http://localhost/devs/webgos/galeri
 ---
+2016/04/21 21:41:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/web/css/owl.theme.css".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/web/css/...')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/themes/web/css/owl.theme.css
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 21:41:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/web/css/owl.transitions.css".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/web/css/...')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/themes/web/css/owl.transitions.css
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 21:41:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/web/css/owl.theme.css".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/web/css/...')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/themes/web/css/owl.theme.css
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/about
+---
+2016/04/21 21:41:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/web/css/owl.transitions.css".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/web/css/...')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/themes/web/css/owl.transitions.css
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/about
+---
+2016/04/21 21:42:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/web/css/owl.theme.css".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/web/css/...')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/themes/web/css/owl.theme.css
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/kegiatan
+---
+2016/04/21 21:42:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/web/css/owl.transitions.css".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/web/css/...')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/themes/web/css/owl.transitions.css
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/kegiatan
+---
+2016/04/21 21:42:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/web/css/owl.theme.css".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/web/css/...')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/themes/web/css/owl.theme.css
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/galeri
+---
+2016/04/21 21:42:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/web/css/owl.transitions.css".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/web/css/...')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/themes/web/css/owl.transitions.css
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/galeri
+---
+2016/04/21 21:51:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/web/css/owl.theme.css".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/web/css/...')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/themes/web/css/owl.theme.css
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 21:51:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/web/css/owl.transitions.css".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/web/css/...')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/themes/web/css/owl.transitions.css
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 22:09:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/web/css/owl.theme.css".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/web/css/...')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/themes/web/css/owl.theme.css
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/kegiatan
+---
+2016/04/21 22:09:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/web/css/owl.transitions.css".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/web/css/...')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/themes/web/css/owl.transitions.css
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/kegiatan
+---
+2016/04/21 22:09:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/web/css/owl.theme.css".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/web/css/...')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/themes/web/css/owl.theme.css
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/about
+---
+2016/04/21 22:09:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/web/css/owl.transitions.css".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/web/css/...')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/themes/web/css/owl.transitions.css
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/about
+---
+2016/04/21 22:09:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/web/css/owl.theme.css".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/web/css/...')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/themes/web/css/owl.theme.css
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 22:09:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/web/css/owl.transitions.css".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/web/css/...')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/themes/web/css/owl.transitions.css
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 22:09:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/web/css/owl.theme.css".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/web/css/...')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/themes/web/css/owl.theme.css
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/about
+---
+2016/04/21 22:09:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/web/css/owl.transitions.css".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/web/css/...')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/themes/web/css/owl.transitions.css
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/about
+---
+2016/04/21 22:09:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/web/css/owl.theme.css".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/web/css/...')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/themes/web/css/owl.theme.css
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/kegiatan
+---
+2016/04/21 22:09:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/web/css/owl.transitions.css".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/web/css/...')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/themes/web/css/owl.transitions.css
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/kegiatan
+---
+2016/04/21 22:09:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/web/css/owl.theme.css".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/web/css/...')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/themes/web/css/owl.theme.css
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/galeri
+---
+2016/04/21 22:09:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/web/css/owl.transitions.css".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/web/css/...')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/themes/web/css/owl.transitions.css
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/galeri
+---
+2016/04/21 22:09:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/web/css/owl.theme.css".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/web/css/...')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/themes/web/css/owl.theme.css
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/about
+---
+2016/04/21 22:09:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/web/css/owl.transitions.css".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/web/css/...')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/themes/web/css/owl.transitions.css
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/about
+---
+2016/04/21 22:09:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/web/css/owl.theme.css".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/web/css/...')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/themes/web/css/owl.theme.css
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 22:09:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/web/css/owl.transitions.css".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/web/css/...')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/themes/web/css/owl.transitions.css
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 22:31:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/material/css/style.css".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/material...')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/themes/material/css/style.css
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 22:31:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/init.js".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('js/init.js')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/js/init.js
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 22:31:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "background1.jpg".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('background1.jpg')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/background1.jpg
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 22:31:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "background2.jpg".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('background2.jpg')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/background2.jpg
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 22:31:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "background3.jpg".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('background3.jpg')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/background3.jpg
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 22:33:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/material/css/style.css".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/material...')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/themes/material/css/style.css
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 22:33:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/init.js".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('js/init.js')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/js/init.js
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 22:33:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/material/css/style.css".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/material...')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/themes/material/css/style.css
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 22:33:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/init.js".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('js/init.js')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/js/init.js
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 22:34:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/material/css/style.css".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/material...')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/themes/material/css/style.css
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 22:34:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/init.js".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('js/init.js')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/js/init.js
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 22:34:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/material/css/style.css".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/material...')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/themes/material/css/style.css
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 22:35:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/material/css/style.css".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/material...')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/themes/material/css/style.css
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 22:35:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/init.js".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('js/init.js')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/js/init.js
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 22:39:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/material/css/style.css".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/material...')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/themes/material/css/style.css
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 22:39:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/init.js".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('js/init.js')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/js/init.js
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 22:40:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/material/css/style.css".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/material...')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/themes/material/css/style.css
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 22:40:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/init.js".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('js/init.js')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/js/init.js
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 22:40:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/material/css/style.css".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/material...')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/themes/material/css/style.css
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 22:40:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/init.js".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('js/init.js')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/js/init.js
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 22:40:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/material/css/style.css".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/material...')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/themes/material/css/style.css
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 22:40:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/init.js".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('js/init.js')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/js/init.js
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 22:40:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/material/css/style.css".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/material...')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/themes/material/css/style.css
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 22:40:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/init.js".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('js/init.js')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/js/init.js
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 22:40:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/material/css/style.css".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/material...')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/themes/material/css/style.css
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 22:40:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/init.js".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('js/init.js')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/js/init.js
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 22:40:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/material/css/style.css".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/material...')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/themes/material/css/style.css
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 22:40:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/init.js".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('js/init.js')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/js/init.js
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 22:41:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/material/css/style.css".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/material...')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/themes/material/css/style.css
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 22:41:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/init.js".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('js/init.js')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/js/init.js
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 22:42:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/material/css/style.css".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/material...')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/themes/material/css/style.css
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 22:42:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/init.js".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('js/init.js')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/js/init.js
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 22:48:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/material/css/style.css".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/material...')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/themes/material/css/style.css
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 22:48:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/init.js".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('js/init.js')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/js/init.js
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 22:49:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/material/css/style.css".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/material...')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/themes/material/css/style.css
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 22:49:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/init.js".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('js/init.js')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/js/init.js
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 22:51:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/material/css/style.css".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/material...')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/themes/material/css/style.css
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 22:52:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/material/css/style.css".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/material...')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/themes/material/css/style.css
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 22:52:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/init.js".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('js/init.js')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/js/init.js
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 22:52:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/material/css/style.css".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/material...')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/themes/material/css/style.css
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 22:52:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/init.js".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('js/init.js')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/js/init.js
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 22:52:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/material/css/style.css".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/material...')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/themes/material/css/style.css
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 22:52:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/init.js".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('js/init.js')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/js/init.js
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 22:53:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/material/css/style.css".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/material...')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/themes/material/css/style.css
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 22:53:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/init.js".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('js/init.js')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/js/init.js
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 22:53:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/material/css/style.css".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/material...')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/themes/material/css/style.css
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 22:53:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/init.js".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('js/init.js')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/js/init.js
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 22:54:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/material/css/style.css".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/material...')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/themes/material/css/style.css
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 22:54:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/init.js".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('js/init.js')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/js/init.js
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 22:54:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/material/css/style.css".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/material...')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/themes/material/css/style.css
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 22:54:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/init.js".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('js/init.js')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/js/init.js
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 22:54:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/material/css/style.css".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/material...')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/themes/material/css/style.css
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 22:54:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/init.js".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('js/init.js')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/js/init.js
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 22:54:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/material/css/style.css".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/material...')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/themes/material/css/style.css
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 22:54:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/material/css/style.css".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('themes/material...')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/themes/material/css/style.css
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 22:54:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/init.js".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('js/init.js')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/js/init.js
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 22:56:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/init.js".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('js/init.js')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/js/init.js
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 22:56:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/init.js".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('js/init.js')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/js/init.js
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 22:56:33 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/init.js".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('js/init.js')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/js/init.js
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 22:56:58 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/init.js".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('js/init.js')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/js/init.js
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 22:57:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/init.js".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('js/init.js')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/js/init.js
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 22:58:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/init.js".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('js/init.js')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/js/init.js
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 22:58:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/init.js".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('js/init.js')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/js/init.js
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 23:00:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/init.js".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('js/init.js')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/js/init.js
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 23:00:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/init.js".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('js/init.js')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/js/init.js
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 23:01:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/init.js".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('js/init.js')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/js/init.js
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 23:02:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/init.js".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('js/init.js')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/js/init.js
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 23:02:45 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "js/init.js".' in /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController('js/init.js')
+#1 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#2 /data/project/devs/webgos/webgos_dev/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/devs/webgos/webgos_dev/js/init.js
+HTTP_REFERER=http://localhost/devs/webgos/webgos_dev/
+---
+2016/04/21 23:21:15 [error] [php] Illegal string offset 'about' (/data/project/devs/webgos/webgos_dev/themes/material/views/layouts/main.php:48)
+Stack trace:
+#0 /data/project/devs/webgos/webgos_dev/framework/web/widgets/CContentDecorator.php(76): SiteController->renderFile()
+#1 /data/project/devs/webgos/webgos_dev/framework/web/widgets/CContentDecorator.php(54): CContentDecorator->decorate()
+#2 /data/project/devs/webgos/webgos_dev/framework/web/widgets/COutputProcessor.php(44): CContentDecorator->processOutput()
+#3 /data/project/devs/webgos/webgos_dev/framework/web/CBaseController.php(206): CContentDecorator->run()
+#4 /data/project/devs/webgos/webgos_dev/framework/web/CBaseController.php(300): SiteController->endWidget()
+#5 /data/project/devs/webgos/webgos_dev/protected/views/layouts/column1.php(6): SiteController->endContent()
+#6 /data/project/devs/webgos/webgos_dev/framework/web/CBaseController.php(126): require()
+#7 /data/project/devs/webgos/webgos_dev/framework/web/CBaseController.php(95): SiteController->renderInternal()
+#8 /data/project/devs/webgos/webgos_dev/framework/web/CController.php(784): SiteController->renderFile()
+#9 /data/project/devs/webgos/webgos_dev/protected/controllers/SiteController.php(35): SiteController->render()
+#10 /data/project/devs/webgos/webgos_dev/framework/web/actions/CInlineAction.php(49): SiteController->actionIndex()
+#11 /data/project/devs/webgos/webgos_dev/framework/web/CController.php(308): CInlineAction->runWithParams()
+#12 /data/project/devs/webgos/webgos_dev/framework/web/CController.php(286): SiteController->runAction()
+#13 /data/project/devs/webgos/webgos_dev/framework/web/CController.php(265): SiteController->runActionWithFilters()
+#14 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(282): SiteController->run()
+#15 /data/project/devs/webgos/webgos_dev/framework/web/CWebApplication.php(141): CWebApplication->runController()
+#16 /data/project/devs/webgos/webgos_dev/framework/base/CApplication.php(180): CWebApplication->processRequest()
+#17 /data/project/devs/webgos/webgos_dev/index.php(13): CWebApplication->run()
+REQUEST_URI=/devs/webgos/webgos_dev/
+in /data/project/devs/webgos/webgos_dev/themes/material/views/layouts/main.php (48)
+in /data/project/devs/webgos/webgos_dev/protected/views/layouts/column1.php (6)
+in /data/project/devs/webgos/webgos_dev/protected/controllers/SiteController.php (35)

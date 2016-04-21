@@ -29,7 +29,8 @@ class SiteController extends Controller
 	{
 		// renders the view file 'protected/views/site/index.php'
 		// using the default layout 'protected/views/layouts/main.php'
-		$this->render('index');
+		$data = array();
+		$this->render('index', array('data'=>$data));
 	}
 
 	/**
@@ -103,12 +104,6 @@ class SiteController extends Controller
 	/**
 	 * Logs out the current user and redirect to homepage.
 	 */
-
-	public function actionAbout()
-	{
-		$data=array();
-		$this->render('about',array('data'=>$data));
-	}
 
 	public function actionKegiatan()
 	{

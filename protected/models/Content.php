@@ -1,22 +1,22 @@
 <?php
 
 /**
- * This is the model class for table "page".
+ * This is the model class for table "content".
  *
- * The followings are the available columns in table 'page':
- * @property string $page_id
- * @property string $page_key
- * @property string $page_value
- * @property string $page_active
+ * The followings are the available columns in table 'content':
+ * @property string $content_id
+ * @property string $content_key
+ * @property string $content_value
+ * @property string $content_active
  */
-class Page extends CActiveRecord
+class Content extends CActiveRecord
 {
 	/**
 	 * @return string the associated database table name
 	 */
 	public function tableName()
 	{
-		return 'page';
+		return 'content';
 	}
 
 	/**
@@ -27,13 +27,13 @@ class Page extends CActiveRecord
 		// NOTE: you should only define rules for those attributes that
 		// will receive user inputs.
 		return array(
-			array('page_key', 'required'),
-			array('page_key', 'length', 'max'=>20),
-			array('page_active', 'length', 'max'=>255),
-			array('page_value', 'safe'),
+			array('content_key', 'required'),
+			array('content_key', 'length', 'max'=>20),
+			array('content_active', 'length', 'max'=>255),
+			array('content_value', 'safe'),
 			// The following rule is used by search().
 			// @todo Please remove those attributes that should not be searched.
-			array('page_id, page_key, page_value, page_active', 'safe', 'on'=>'search'),
+			array('content_id, content_key, content_value, content_active', 'safe', 'on'=>'search'),
 		);
 	}
 
@@ -54,10 +54,10 @@ class Page extends CActiveRecord
 	public function attributeLabels()
 	{
 		return array(
-			'page_id' => 'Page',
-			'page_key' => 'Page Key',
-			'page_value' => 'Page Value',
-			'page_active' => 'Page Active',
+			'content_id' => 'Content',
+			'content_key' => 'Content Key',
+			'content_value' => 'Content Value',
+			'content_active' => 'Content Active',
 		);
 	}
 
@@ -79,10 +79,10 @@ class Page extends CActiveRecord
 
 		$criteria=new CDbCriteria;
 
-		$criteria->compare('page_id',$this->page_id,true);
-		$criteria->compare('page_key',$this->page_key,true);
-		$criteria->compare('page_value',$this->page_value,true);
-		$criteria->compare('page_active',$this->page_active,true);
+		$criteria->compare('content_id',$this->content_id,true);
+		$criteria->compare('content_key',$this->content_key,true);
+		$criteria->compare('content_value',$this->content_value,true);
+		$criteria->compare('content_active',$this->content_active,true);
 
 		return new CActiveDataProvider($this, array(
 			'criteria'=>$criteria,
@@ -93,10 +93,16 @@ class Page extends CActiveRecord
 	 * Returns the static model of the specified AR class.
 	 * Please note that you should have this exact method in all your CActiveRecord descendants!
 	 * @param string $className active record class name.
-	 * @return Page the static model class
+	 * @return Content the static model class
 	 */
 	public static function model($className=__CLASS__)
 	{
 		return parent::model($className);
+	}
+
+	public static function getContent($key)
+	{
+		$content = self::model()->find('content_key=:key', array(':key'=>$key))->content_value;
+		return $content!=null ? $content : 'n/a';
 	}
 }
