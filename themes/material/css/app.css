@@ -1,0 +1,9 @@
+
+.banner-web {
+	margin-top: 20px;
+	background-image: url(../images/banner-web-gos.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 400px;
+	width: 100%
+}
